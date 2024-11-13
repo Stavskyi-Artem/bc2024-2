@@ -1,2 +1,2 @@
 http://backend.course#Stavskyi-Artem
-
+http://backend.course?name="Ð¡ÑÐ°Ð²ÑÑÐºÐ¸Ð¹ ÐÑÑÑÐ¾Ð¼"&github_name=Stavskyi-Artem&group="Ð¤ÐÐ-24Ñ"&subgroup="ÐÑÐ´Ð³ÑÑÐ¿Ð° 2"
